@@ -1,6 +1,5 @@
 ### development
 
-    npm run server
     npm run dev-server
 
 ### to start tests running
@@ -10,3 +9,5 @@
 ### build for production
 
     npm run build:prod
+    
+based on https://github.com/dwilbank68/expensify
